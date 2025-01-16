@@ -19,5 +19,3 @@ E-mail : kuy0426@naver.com
 ---
 
 ![초록하트](green.png)
-
-
