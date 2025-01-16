@@ -2,6 +2,10 @@
 
 ---
 
+![빵빵이사진](bb.png)
+
+---
+
 이름 : 김유영
 나이 : 26
 MBTI : ESTJ
@@ -9,12 +13,11 @@ MBTI : ESTJ
 
 ---
 
-#### 🔭 I’m currently working with ...
+E-mail : kuy0426@naver.com
+취미 : 쉬기..
 
-![링크드인](linkedin.svg)(http://www.naver.com) ![gmail](./gmail.svg)
+---
 
-README의 위치는 gittest/
-
-README 파일안에서 그냥 test.jpg
+![초록하트](green.png)
 
 
